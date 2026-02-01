@@ -1,0 +1,604 @@
+--- PÁGINA 1 ---
+ 
+©TecNM mayo 2016  Página | 1  
+ 
+TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+1. Datos Generales de la asignatura 
+Nombre de la asignatura: 
+ 
+Clave de la asignatura: 
+ 
+SATCA1: 
+ 
+Carrera:  Tópicos Avanzados de Programación. 
+ SCD-1027  2 - 3 - 5  Ingeniería en Sistemas Computacionales. 
+ 2. Presentación 
+Caracterización de la asignatura  
+Esta asignatura apoya en la implementación de aplicaciones comp utacionales para solucionar 
+problemas de diversos contextos,  integrando diferentes tecnolog ías, plataformas o dispositivos, por 
+medio del desarrollo de software utilizando programación concur rente, acceso a datos,  que soporte 
+interfaz gráfica de usuario e i ncluya programación móvil. 
+ Para el logro de los objetivos e s necesario que el estudiante t enga competencias previas en cuanto a 
+paradigmas de programación, el uso de metodologías para la solu ción de problemas mediante la 
+construcción de algoritmos utilizando un lenguaje de programaci ón orientada a objetos, el manejo de 
+conceptos básicos de Hardware y Software, construcción de model os de software empleando 
+diagramas de clases.  Para adquirir la competencia plan teada en esta asignatura es ne cesario que el estudiante haya 
+acreditado la  asignatura de Programación Orientada a Objetos y  evitar cursarla en semestres muy 
+avanzados tomando en cuenta que en esta asignatura el estudiant e desarrollará competencias necesarias 
+para cursos posteriores entre los  que se encuentran los tallere s de bases de datos y programación web. 
+Intención didáctica 
+Se organiza el temario, en cinco unidades, en la  primera tema se estudia la Interfaz Gráfica de Usuario 
+(GUI), dependiendo de las herrami entas utilizadas  en los cursos  anteriores se puede elegir la misma 
+herramienta o una distinta con el fin de que el estudiante apre nda a utilizar los componentes gráficos 
+que brinde el entorno de desarro llo, que incluya el manejo de e ventos y que desarrolle nuevos 
+componentes derivados de los ya e xistentes pero que incluyan nu evas propiedades.  
+ Es recomendable considerar los c onocimientos previos del grupo y las herramientas de desarrollo con 
+las que están familiarizados. La resolución de problemas como u na herramienta resulta eficaz para 
+aprender estos conocimientos, partiendo de la definición de un problema real que pueda ser resuelto 
+utilizando la programación de eve ntos y requiera de una interfa z gráfica.  
+ El segundo tema se enfoca al estudio de la creación y manejo de  librerías y componentes (estos 
+términos pueden variar según el lenguaje de programación utiliz ado). Se entiende como librería a un 
+conjunto de bloques de códigos de programación normalmente comp ilados, que pueden ser incluidos 
+en una aplicación para su uso. Y a un componente como una clase  de uso específico, lista para usar, 
+que puede ser configurada o utili zada de forma visual, desde el  entorno de desarrollo. Este tema debe 
+enfatizar la creación de nuevas librerías y componentes y evita r el estudio exhaustivo de las que incluya 
+el entorno de desarrollo, a esta s últimas enfocarse solo en rev isar la forma de utilizarlos.  
+                                                            
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+--- PÁGINA 2 ---
+ 
+©TecNM mayo 2016  Página | 2  
+ 
+TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+ 
+En el tercer tema se aborda el tema de programación concurrente  requiere de iniciar con el estudio a 
+nivel conceptual sobre los hilos y su funcionamiento, y después  ir implementando aplicaciones 
+multihilos. Uno de los puntos más sensibles es la sincronizació n por lo que deben ha cerse hincapié en 
+una buena implementación. Para este tema es recomendable hacer prácticas sencillas para comprender 
+la funcionalidad de los hilos, e l manejo de sus estados y la si ncronización, para fin almente desarrollar 
+aplicaciones que usen la programaci ón concurrente en la resoluc ión de problemas reales.  
+ En el cuarto tema se aborda el tema de acceso a datos, donde se  requiere aprender cómo realizar la 
+conexión con diferentes orígene s de datos, su manipulación y vi sualización. 
+  El quinto tema se refiere al e studio de la programación de disp ositivos móviles, la intención de este 
+tema es realizar un estudio a nivel introductorio sobre las dis tintas tecnologías que hay en el mercado, 
+y desarrollar aplicacione s sencillas para esta clase de disposi tivos. 
+ 
+3. Participantes en el diseño y seg uimiento curricular del prog rama 
+ 
+Lugar y fecha de 
+elaboración o revisión Participantes Evento 
+Instituto Tecnológico de 
+Saltillo del 5 al 9 de octubre 
+de 2009. Representantes de los Institutos 
+Tecnológicos de: 
+Alvarado, Arandas, Campeche, 
+Celaya, Centla, Cerro Azul, 
+Champotón, Ciudad Acuña, Ciudad 
+Cuauhtémoc, Ciudad Juárez, Ciudad 
+Madero, Ciudad Valles, 
+Coatzacoalcos, Cocula, Colima, Comitán, Durango, El Istmo, 
+Huetamo, La Laguna, La Paz, Lázaro 
+Cárdenas, Lerdo, Libres, Linares, 
+Macuspana, Matamoros, Mérida, 
+Mexicali, Morelia, Nuevo Laredo, 
+Nuevo León, Occidente del Estado 
+de Hidalgo, Ocotlán, Orizaba, Oriente del Estado de Hidalgo, 
+Parral, Piedras Negras, Pinotepa, 
+Saltillo, San Luis Potosí, Sur de 
+Guanajuato, Sur del Estado de 
+Yucatán, Tapachula, Tepexi de 
+Rodríguez, Teziutlán, Tijuana, 
+Toluca, Tuxtepec, Veracruz, 
+Villahermosa, Xalapa, Zacatecas y 
+Zacatepec. Reunión Nacional de Diseño e 
+Innovación Curricular para el 
+Desarrollo y Formación de Competencias Profesionales de las 
+Carreras de Ingeniería en Sistemas 
+Computacionales, Ingeniería 
+Informática e Ingeniería en 
+Geociencias. 
+
+--- PÁGINA 3 ---
+ 
+©TecNM mayo 2016  Página | 3  
+ 
+TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+Instituto Tecnológico 
+Superior de Poza Rica del 22 
+al 26 de febrero de 2010. Representantes de los Institutos 
+Tecnológicos de: 
+Alvarado, Arandas, Campeche, 
+Celaya, Centla, Cerro Azul, Champotón, Ciudad Acuña, Ciudad 
+Cuauhtémoc, Ciudad Juárez, Ciudad 
+Madero, Ciudad Valles, 
+Coatzacoalcos, Cocula, Colima, 
+Comitán, Durango, El Istmo, 
+Huetamo, La Laguna, La Paz, Lázaro 
+Cárdenas, Lerdo, Libres, Macuspana, 
+Matamoros, Mérida, Mexicali, 
+Morelia, Nuevo Laredo, Nuevo León, Occidente del Estado de 
+Hidalgo, Orizaba, Oriente del Estado 
+de Hidalgo, Parral, Piedras Negras, 
+Pinotepa, Saltillo, San Luis Potosí, 
+Sur de Guanajuato, Sur del Estado de 
+Yucatán, Tapachula, Tepexi de 
+Rodríguez, Teziutlán, Tijuana, Toluca, Tuxtepec, Veracruz, 
+Villahermosa, Xalapa, Zacatecas y 
+Zacatepec. Reunión Nacional de Consolidación de 
+los Programas en Competencias 
+Profesionales de las Carreras de 
+Ingeniería en Sistemas 
+Computacionales, Ingeniería 
+Informática e Ingeniería Petrolera del SNEST. 
+Instituto Tecnológico de 
+Querétaro del 22 al 25 de 
+octubre de 2012. Representantes de los Institutos 
+Tecnológicos de: 
+Acayucan, Altamira, Cajeme, 
+Campeche, Cananea, Cd. Acuña, Cd. 
+Cuauhtémoc, Cd. Juárez, Cd. 
+Madero, Cd. Valles, Celaya, Centla, 
+Cerro Azul, Chetumal, Chihuahua II, 
+Chilpancingo, Coalcomán, 
+Coatzacoalcos, Cocula, Colima, Comalcalco, Delicias, Durango, 
+Ébano, Escárcega, Huixquilucan, La 
+Paz, León, Lerdo, Los Ríos, 
+Macuspana, Mante, Milpa Alta, 
+Minatitlán, Morelia, Nuevo Laredo, 
+Nuevo León, Oaxaca, Oriente del 
+Estado de México, Oriente del Estado de Hidalgo, Pachuca, Piedras 
+Negras, Progreso, Puerto Vallarta, 
+Purhepecha, Tacámbaro, Tehuacán, Reunión Nacional de Seguimiento 
+Curricular de los Programas en 
+Competencias Profesionales de las 
+Carreras de Ingeniería en Sistemas 
+Computacionales, Ingeniería Informática e Ingeniería en 
+Tecnologías de la Información y 
+Comunicaciones. 
+
+--- PÁGINA 4 ---
+ 
+©TecNM mayo 2016  Página | 4  
+ 
+TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+Tepexi de Rodríguez, Tepic, 
+Teposcolula, Teziutlán, Tierra 
+Blanca, Tijuana, Tlaxiaco, Toluca, 
+Tuxtepec, Uruapan, Valladolid, 
+Veracruz, Villahermosa, Zacatecas, 
+Zacatecas Norte, Zacatepec, 
+Zapopan, Zitácuaro y Zongólica. 
+Instituto Tecnológico de 
+Toluca, del 10 al 13 de 
+febrero de 2014. Representantes de los Institutos 
+Tecnológicos de: 
+Cerro Azul, Colima, Lerdo, Toluca y 
+Veracruz. Reunión de Seguimiento Curricular de 
+los Programas Educativos de 
+Ingenierías, Licenciaturas y 
+Asignaturas Comunes del SNIT. 
+ 
+ 
+    4. Competencia(s) a desarrollar  
+Competencia(s) específic a(s) de la asignatura 
+Desarrolla soluciones de software para resolver problemas en di versos contextos utilizando 
+programación concurrente, acceso a datos,  que soporten interfa z gráfica de usuario y consideren 
+dispositivos móviles. 
+ 
+5. Competencias previas 
+Diseña y desarrolla programas para la solución de problemas com putacionales utilizando el paradigma 
+orientado a objetos. 
+ 
+         
+ 
+    
+
+--- PÁGINA 5 ---
+ 
+©TecNM mayo 2016  Página | 5  
+ 
+TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+ 
+6. Temario  
+No. Temas Subtemas 
+1 Interfaz gráfica de usuario. 1.1Creación de interfaz gráfica para  usuarios. 
+1.2 Tipos de eventos. 1.3 Manejo de eventos. 1.4 Manejo de componentes gráficos de 
+control. 
+2 Componentes y librerías. 
+  2.1 Definición conceptual de componentes, 
+paquetes / librerías. 
+2.2 Uso de librerías proporcionadas por el 
+lenguaje. 
+2.3 Creación de componentes (visuales  y  no 
+visuales) definidos por el usuario 
+2.4 Creación y uso de paquetes/librerías 
+definidas por el usuario. 
+3 Programación concurrente (MultiHilos). 3.1 Concepto de hilo. 
+3.2 Comparación de un programa de flujo 
+único contra uno de flujo múltiple. 
+3.3 Creación y control de hilos. 3.4 Sincronización de hilos computación. 
+4 Acceso a datos. 
+  4.1 Introducción. 
+4.2 Conexión a origen de datos. 4.3 Manipulación de datos. 4.4 Visualización  de datos. 
+5 Programación de dispositivos móviles. 
+ 5.1. Introducción a las tecnologías y 
+herramientas móviles. 
+5.2 Clasificación y aplicaciones de los 
+dispositivos móviles. 
+5.3 Entorno operativo de las aplicaciones 
+móviles. 
+5.4 Desarrollo de aplicaciones móviles. 5.5. Aspectos de seguridad. 
+  
+ 
+        
+
+--- PÁGINA 6 ---
+ 
+©TecNM mayo 2016  Página | 6  
+ 
+TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+7. Actividades de aprendizaje de los temas 
+ 
+1. Interfaz gráfica de usuario. 
+Competencias Actividades de aprendizaje 
+Específica(s):  
+ Desarrolla programas para interactuar con el 
+usuario de una manera amigable, utilizando 
+GUI (Interfaz Gráfica de Usuario) 
+manipuladas a través de eventos. 
+Genéricas:   
+ Capacidad de análisis y síntesis. 
+ Capacidad de organizar y planificar. 
+ Comunicación oral y escrita. 
+ habilidad para buscar y a nalizar información 
+proveniente de fuentes  diversas. 
+ Solución de problemas. 
+ Toma de decisiones.  
+ Capacidad crítica y autocrítica. 
+ Capacidad de trabajar en equipo. 
+ Capacidad de comunicar sus ideas. 
+ Capacidad de liderazgo. 
+ Capacidad de aplicar los conocimientos en la 
+práctica. 
+ Habilidades de investigación. 
+ Capacidad de aprender. 
+ Capacidad de adaptarse a nuevas situaciones. 
+ Capacidad de generar nuevas ideas 
+(creatividad). 
+ Habilidad para trabajar en forma autónoma. 
+ Preocupación por la calidad. 
+ Búsqueda del logro.  Realizar investigación sobre las distintas 
+plataformas de desarro llo visual, elaborar un 
+cuadro comparativo de las distintas plataformas, comentarlo en equipos y llegar a una conclusión. 
+ Realizar una investigación sobre los 
+requerimientos que debe de cumplir una 
+interfaz gráfica, ela borar un cuadro sinóptico 
+de dichos requerimientos y presentarlos en clase 
+ Realizar prácticas que permitan 
+familiarizarse con el desarrollo de GUI y elaborar su corres pondiente reporte. 
+ Realizar una investigación sobre la 
+programación orientada a eventos, elaborar 
+un cuadro sinóptico y analizarlo en el grupo buscando llegar a conclusiones  
+ Partiendo de casos de estudio plantear 
+soluciones e identif icar cuáles son los 
+eventos que se involucran, discutiendo los resultados en grupo.  
+ Realizar aplicaciones simples que involucren 
+los eventos de Mouse, y elaborar su correspondiente reporte.  
+ 
+Realizar prácticas que permitan definir 
+nuevos eventos, asociarlos con funciones y 
+elaborar su corres pondiente reporte. 
+ Seleccionar un proyecto integrador para 
+trabajar en el transcurso del semestre. 
+2. Componentes y librerías. 
+Competencias  Actividades de aprendizaje 
+
+--- PÁGINA 7 ---
+ 
+©TecNM mayo 2016  Página | 7  
+ 
+TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+Específica(s):  
+ Diseña e implementa componentes y librerías 
+para lograr la reu tilización de código. 
+Genéricas: 
+ Capacidad de análisis y síntesis. 
+ Capacidad de organizar y planificar. 
+ Comunicación oral y escrita. 
+ habilidad para buscar y a nalizar información 
+proveniente de fuentes  diversas. 
+ Solución de problemas. 
+ Toma de decisiones.  
+ Capacidad crítica y autocrítica. 
+ Capacidad de trabajar en equipo. 
+ Capacidad de comunicar sus ideas. 
+ Capacidad de liderazgo. 
+ Capacidad de aplicar los conocimientos en la 
+práctica. 
+ Habilidades de investigación. 
+ Capacidad de aprender. 
+ Capacidad de adaptarse a nuevas situaciones. 
+ Capacidad de generar nuevas ideas 
+(creatividad). 
+ Habilidad para trabajar en forma autónoma. 
+ Preocupación por la calidad. 
+ Búsqueda del logro.  Realizar una investigación sobre los 
+componentes visuales y no visuales, de las 
+diferentes IDE’S, elaborando un cuadro 
+comparativo, seleccionando  una de ellas, 
+justificando el por qué se eligió. 
+ Realizar prácticas que permitan 
+familiarizarse con el uso de los componentes 
+y elaborar su correspondiente reporte.  
+ Realizar una investigac ión sobre la forma de 
+crear nuevos componentes, elaborando un 
+mapa de secuencias, discutirlo en plenaria.  
+ Presentar los avances de los proyectos al 
+grupo que incluyan GUI, eventos, componentes y librerías para enriquecerlos 
+con las opiniones del docente y de los 
+estudiantes. 
+3. Programación concurrente (MultiHilos).  
+Competencias  Actividades de aprendizaje 
+Específica(s):  
+ Crea subprogramas para resolver problemas 
+concurrentes utilizando Multihilos. 
+Genéricas: 
+ Capacidad de análisis y síntesis. 
+ Capacidad de organizar y planificar. 
+ Comunicación oral y escrita.  Realizar una investigación sobre los 
+conceptos fundamentales de la programación 
+concurrente, elabor ar preguntas guías y 
+participar en la discusión grupal. 
+ Realizar prácticas que  u tilicen hilos para 
+solucionar problemas  que lo requieran y elaborar su reporte  correspondiente. 
+ Realizar una investigación sobre los 
+problemas más comunes en las aplicaciones 
+
+--- PÁGINA 8 ---
+ 
+©TecNM mayo 2016  Página | 8  
+ 
+TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+ habilidad para buscar y a nalizar información 
+proveniente de fuentes  diversas. 
+ Solución de problemas. 
+ Toma de decisiones.  
+ Capacidad crítica y autocrítica. 
+ Capacidad de trabajar en equipo. 
+ Capacidad de comunicar sus ideas. 
+ Capacidad de liderazgo. 
+ Capacidad de aplicar los conocimientos en la 
+práctica. 
+ Habilidades de investigación. 
+ Capacidad de aprender. 
+ Capacidad de adaptarse a nuevas situaciones. 
+ Capacidad de generar nuevas ideas 
+(creatividad). 
+ Habilidad para trabajar en forma autónoma. 
+ Preocupación por la calidad. 
+ Búsqueda del logro. multihilos y la forma de resolverlos, 
+utilizando organizadores gráficos para 
+representar el conocim iento y discutirlo en 
+equipos.   
+ Presentar los avances de los proyectos al 
+grupo que incluyan GUI, eventos, 
+componentes, librerías e hilos, para 
+enriquecerlos con las opin iones del docente y 
+de los estudiantes. 
+4. Acceso a datos. 
+Competencias  Actividades de aprendizaje 
+Específica(s):  
+ Establece conexiones a diferentes orígenes 
+de datos para su manipulación y visualización de información. 
+Genéricas: 
+ Capacidad de análisis y síntesis. 
+ Capacidad de organizar y planificar. 
+ Comunicación oral y escrita. 
+ habilidad para buscar y a nalizar información 
+proveniente de fuentes  diversas. 
+ Solución de problemas. 
+ Toma de decisiones.  
+ Capacidad crítica y autocrítica. 
+ Capacidad de trabajar en equipo. 
+ Capacidad de comunicar sus ideas. 
+ Capacidad de liderazgo.  Investigar en fuentes diversas de información 
+los diferentes proveedores para el acceso a datos desde una aplicación, elaborar un 
+cuadro comparativo, comentándolo en plenaria, obteniendo una conclusión. 
+ Realizar prácticas que permitan la conexión, 
+manipulación y visualización de los datos y 
+elaborar su reporte  correspondiente. 
+
+--- PÁGINA 9 ---
+ 
+©TecNM mayo 2016  Página | 9  
+ 
+TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+ Capacidad de aplicar los conocimientos en la 
+práctica. 
+ Habilidades de investigación. 
+ Capacidad de aprender. 
+ Capacidad de adaptarse a nuevas situaciones. 
+ Capacidad de generar nuevas ideas 
+(creatividad). 
+ Habilidad para trabajar en forma autónoma. 
+ Preocupación por la calidad. 
+ Búsqueda del logro. 
+5. Programación de dispositivos móviles.  
+Competencias  Actividades de aprendizaje 
+Específica(s):  
+ Desarrollar aplicaciones básicas para 
+dispositivos móvile s, considerando su 
+entorno operativo. 
+Genéricas: 
+ Capacidad de análisis y síntesis. 
+ Capacidad de organizar y planificar. 
+ Comunicación oral y escrita. 
+ habilidad para buscar y a nalizar información 
+proveniente de fuentes  diversas. 
+ Solución de problemas. 
+ Toma de decisiones.  
+ Capacidad crítica y autocrítica. 
+ Capacidad de trabajar en equipo. 
+ Capacidad de comunicar sus ideas. 
+ Capacidad de liderazgo. 
+ Capacidad de aplicar los conocimientos en la 
+práctica. 
+ Habilidades de investigación. 
+ Capacidad de aprender. 
+ Capacidad de adaptarse a nuevas situaciones. 
+ Capacidad de generar nuevas ideas 
+(creatividad). 
+ Habilidad para trabajar en forma autónoma.  Realizar una investigación sobre los diversos 
+tipos de dispositivos móviles que existen en 
+la actualidad y que tie nen mayor impacto en 
+el mercado, por lo tanto en la sociedad, 
+elaborar cuadro comparativo, discutirlo en 
+plenaria y elaborar un resumen.  
+ Investigar sobre los diferentes entornos de 
+desarrollo de aplicaciones móviles y analizar 
+de manera grupal las ventajas y desventajas 
+que cada uno de ellos pr esenta, elaborar un 
+mapa mental. 
+ Tomando como base la investigación de 
+entornos de desarrollo elegir de manera 
+grupal dos entornos de d esarrollo a utilizar 
+en clase.  
+ Desarrollar aplicaciones en dispositivos 
+móviles que tengan acceso, manipulación y 
+visualización de datos, elaborar la 
+documentación. 
+ Desarrollar e implementar aplicaciones 
+móviles que utilicen algún tipo de conectividad (Wi-Fi, Bluetooth, etc.) y 
+presentarla en plenaria. 
+
+--- PÁGINA 10 ---
+ 
+©TecNM mayo 2016  Página | 10  
+ 
+TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+ Preocupación por la calidad. 
+ Búsqueda del logro. 
+ 
+  8. Práctica(s) 
+ 
+ Editar compilar y ejecutar distintos programas que incluyan el uso de formularios, botones, 
+etiquetas y cajas de texto. 
+ Desarrollar aplicaciones que inc luyan la programación de evento s. 
+ Desarrollar aplicaciones que i ncluyan la generación de nuevos e ventos. 
+ Desarrollar aplicaciones que man eje gráficos en un componente t ipo canvas. 
+ Desarrollar aplicaciones que maneje componentes visuales y no v isuales proporcionados por la 
+IDE. 
+ Desarrollar aplicaciones que man eje librerías proporcionados po r la IDE. 
+ Desarrollar componentes visuales o no visuales a partir de requ erimientos previamente definidos 
+y aplicarlos en el diseño de aplicaciones. 
+ Desarrollar librerías a partir de requerimientos previamente de finidos y aplicarlos en el diseño de 
+aplicaciones. 
+ Analizar las diferencias de funcionalidad entre programas de fl ujo único contra programas de flujo 
+múltiple. 
+ Desarrollar programas que imple menten el uso de un hilo y manip ulen sus distintos estados. 
+ Desarrollar programas que implementen el uso de varios hilos qu e compartan recursos y estén 
+sincronizados. 
+ Desarrollar una aplicación con programación concurrente que res uelva un problema real. 
+ Desarrollar una aplicación que  permita establecer la conexión a un origen de datos. 
+ Desarrollar aplicaciones donde ut ilice el envío, recepción y vi sualización de datos. 
+ Desarrollar un juego para un dispositivo móvil. 
+ 
+                
+
+--- PÁGINA 11 ---
+ 
+©TecNM mayo 2016  Página | 11  
+ 
+TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+9. Proyecto de asignatura 
+El objetivo del proyecto que planteé el docente que imparta est a asignatura, es demostrar el desarrollo 
+y alcance de la(s) competencia(s ) de la asignatu ra, considerand o las siguientes fases: 
+ Fundamentación:  marco referencial (teórico, conceptual, contextual, legal) en el cual se 
+fundamenta el proyecto de acuerdo con un diagnóstico realizado,  m i s m o  q u e  p e r m i t e  a  l o s  
+estudiantes lograr la comprensi ón de la realidad o situación ob jeto de estudio para definir un 
+proceso de intervención o hacer el diseño de un modelo. 
+ Planeación:  con base en el diagnóstico en esta fase se realiza el diseño d el proyecto por parte de 
+los estudiantes con asesoría del docente; implica planificar un  proceso: de intervención 
+empresarial, social o comunitario, el diseño de un modelo, entr e otros, según el tipo de proyecto, 
+las actividades a realizar los r ecursos requeridos y el cronogr ama de trabajo. 
+ Ejecución:  consiste en el desarrollo de la planeación del proyecto realiz ada por parte de los 
+estudiantes con asesoría del docente, es decir en la intervenci ón (social, empresarial), o 
+construcción del modelo propuest o según el tipo de proyecto, es  la fase de mayor duración que 
+implica el desempeño de las comp etencias genéricas y especifica s a desarrollar. 
+ Evaluación:  es la fase final que aplica un juicio de valor en el contexto laboral-profesión, social e 
+investigativo, ésta se debe real izar a través del reconocimient o de logros y aspectos a mejorar se 
+estará promoviendo el concepto de “evaluación para la mejora co ntinua”, la metacognición, el 
+desarrollo del pensamiento crític o y reflexivo en los estudiant es. 
+ 
+10. Evaluación por competencias  
+La evaluación debe ser permanente y continua. Se debe hacer una  evaluación diagnóstica, formativa y 
+sumativa. Se debe aplicar aut oevaluación, coe valuación y hetero evaluación. 
+ Algunos de los instrumento s que se pueden utilizar: 
+ Mapa conceptual. 
+ Mapa mental. 
+ Guía de problemas de programación. 
+ Examen (teóricos y prácticos). 
+ Reportes de prácticas. 
+ Resúmenes. 
+ Cuadro sinóptico. 
+ Preguntas guiadas. 
+ Plenaria. 
+ Cuadro comparativo. 
+ 
+Herramientas:  
+ Rúbrica. 
+ Lista de cotejo. 
+ Matriz de valoración. 
+ Guía de observación. 
+  
+Se debe generar un portafolio de evi dencias, de preferencia en formato digital. 
+ 
+ 
+
+--- PÁGINA 12 ---
+ 
+©TecNM mayo 2016  Página | 12  
+ 
+TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+11. Fuentes de información 
+ 
+1. Aguilar, L. J. (2010). Programaci on en c/c++ java y UML. México : McGraw Hill. 
+2. Bell, D. (2011). Java para est udiantes. México: Pearson. 
+3. Ceballos, F. J. (2010). JAVA 2: C urso de programación. Madrid: RA-MA. 
+4. Dean, J. (2009). Introducción a l a programación con Java. Méxic o: McGraw Hill. 
+5. Deitel, D. y. (2010). Java Cómo Pro gramar. México: Prentice Hal l. 
+6. Friesen, J. (2011). Java para desa rrollo android. España: Anaya  Multimedia. 
+7. Huddleston, R. (2011). Android para todos. España: Anaya Multim edia. 
+8. Lauren Darcey, S. C. (2012). Androi d 4. Madrid: Anaya Multimedi a. 
+9. Soriano, J. E. (2011). Android: Programación de dispositivos mó viles a través de ejemplos. 
+México: Marcombo, S.A. 
+10. Raynal, Michel. (2012). Concurrent  Programming: Algorithms, Pri nciples, and Foundations. 
+Springer. 
+  
+   
+  

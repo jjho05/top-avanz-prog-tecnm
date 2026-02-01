@@ -1,0 +1,8 @@
+nav_assist
+customtkinter
+sqlalchemy
+flet
+kivy
+matplotlib
+pandas
+requests
